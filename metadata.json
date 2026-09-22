@@ -1,0 +1,6 @@
+{
+  "name": "NS Cold Storage",
+  "description": "บริการคลังสินค้าห้องเย็น และรับฝากเก็บอาหารทะเลแช่แข็งมาตรฐานสากล GMP, HACCP, SMETA จ.สงขลา",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
